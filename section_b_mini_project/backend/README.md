@@ -5,10 +5,11 @@ Database File: database.db
 
 OpenAPI 3.0 URL: 
 http://host:port/apidocs 
-Example: http://127.0.0.1:5000/apidocs 
+Example: http://127.0.0.1:8000/apidocs 
 
 Exposes Flask based APIs for the below usecases:
 
 1. Get all/specific the predictions 
 2. Upload CSV file for getting music classifications
-3. Get all Genre groups
+3. Get all Genre groups loaded in the dropdown
+4. Get titles for all/specific genre

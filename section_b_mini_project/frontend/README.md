@@ -1,5 +1,9 @@
 # Getting Started
 
+#Pre-Requisite
+
+Install node.js 
+
 ## How to use
 
 Run the following commands in the root directory.

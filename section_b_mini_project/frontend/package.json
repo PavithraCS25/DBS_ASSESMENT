@@ -1,0 +1,27 @@
+{
+    "name": "music-ui",
+    "version": "1.0.0",
+    "private": true,
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "bootstrap": "^4.5.3"
+    },
+    "devDependencies": {
+        "copy-webpack-plugin": "^9.0.1",
+        "css-loader": "^6.3.0",
+        "serve": "^12.0.0",
+        "style-loader": "^3.3.0",
+        "url-loader": "^4.1.1",
+        "webpack": "^5.56.0",
+        "webpack-cli": "^4.8.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "serve dist",
+        "dev": "webpack && webpack-dev-server",
+        "build": "webpack --config webpack.config.js"
+    }
+}

@@ -1,0 +1,8 @@
+test case 2:
+
+train set:
+	- input: features from make circles dataset in sklearn 
+	- output: target variable from make circles dataset in sklearn 
+test set:
+	- input: features from make circles dataset in sklearn 
+	- output: model predictions

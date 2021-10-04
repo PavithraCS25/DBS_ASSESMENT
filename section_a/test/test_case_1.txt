@@ -1,0 +1,8 @@
+test case 1:
+
+train set:
+	- input: [[0,0], [0,1], [1,0], [1,1],[1,0]]
+	- output: [[0], [1]]
+test set:
+	- input: [[0,1],[1,1],[1,0],[1,0],[1,1]]
+	- output: model predictions

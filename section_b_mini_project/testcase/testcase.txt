@@ -1,0 +1,5 @@
+Test Case 1:
+
+- Upload different new input files to predict
+- predicted data is appended in the database along with filename
+

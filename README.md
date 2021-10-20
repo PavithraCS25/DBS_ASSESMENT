@@ -1,4 +1,4 @@
-# DBS_ASSESMENT
+# MUSIC_GENRE_CLASSIFICATION
 
 SECTION A:
  https://d2srauak49h4sc.cloudfront.net/sectionA_solution.html
